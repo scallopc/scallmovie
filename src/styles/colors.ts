@@ -4,7 +4,7 @@ export const defaultColors = {
   darkBlue300: "#2e3951",
   darkBlue400: "#212A3E",
   darkBlue500: "#1d2435",
-  darkBlue600: "#555770",
+  darkBlue600: "#0F0F0F",
   darkBlueOpacity: "#8890956e",
 
   lightBlue100: "#F7F7FA",
