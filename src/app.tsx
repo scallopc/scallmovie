@@ -5,7 +5,7 @@ import { useTranslation } from "react-i18next";
 import { useEffect } from "react";
 import { getMoviesService } from "./service/api";
 import GlobalStyles from "./styles/global-styles";
-import { light } from "./theme";
+import { dark, light } from "./theme";
 
 export default function App() {
   useEffect(() => {
@@ -23,7 +23,7 @@ export default function App() {
   };
 
   return (
-    <ThemeProvider theme={light}>
+    <ThemeProvider theme={dark}>
       <GlobalStyles />
       <h1>Oi</h1>
     </ThemeProvider>
