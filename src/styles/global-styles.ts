@@ -10,8 +10,8 @@ export default createGlobalStyle`
   }
 
   body {
-    background: ${(props) => props.theme.default.background};
-    color: ${(props) => props.theme.default.color};
+    background: ${(props) => props.theme.default.high};
+    color: ${(props) => props.theme.default.medium};
     font-size: 14px;
     font-family: 'Poppins', sans-serif;
     overflow: hidden;
