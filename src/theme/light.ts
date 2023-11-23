@@ -5,16 +5,14 @@ export const light = {
 
   default: {
     //default
-    background: defaultColors.lightBlue100,
-    title: defaultColors.lightBlue500,
-    color: defaultColors.lightBlue400,
-    lowColor: defaultColors.lightBlue200,
-    lowBackground: defaultColors.lightBlue300,
-    detail: defaultColors.lightBlue400,
+    high: defaultColors.lightLow,
+    medium: defaultColors.lightMedium,
+    low: defaultColors.lightHigh,
     shadow: defaultColors.lightBlueOpacity,
+    border: defaultColors.lightBorder,
 
     //scrol
     thumb: defaultColors.lightBlueOpacity,
-    thumbHover: defaultColors.lightBlue300,
+    thumbHover: defaultColors.lightHigh,
   },
 };
