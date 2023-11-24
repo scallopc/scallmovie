@@ -8,6 +8,7 @@ export function Routes() {
       {" "}
       <Switch>
         <Route path="/" component={Home} />
+        {/* <Route path="/" component={Favorite} /> */}
       </Switch>
     </div>
   );
