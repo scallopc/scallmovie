@@ -4,7 +4,6 @@
         "button": "Botão",
         "properties": "Propriedades",
         "documentation": "Documento",
-        "favorite": "favorito",
-        "cat": "Gato"
+        "favorite": "favorito"
     }
 }
