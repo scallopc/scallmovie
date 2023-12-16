@@ -4,5 +4,7 @@
         "button": "Button",
         "properties": "Properties",
         "discovery": "Discovery",
-        "favorite": "favorite"    }
+        "favorite": "Favorite",
+        "event": "Event"    
+    }
 }
