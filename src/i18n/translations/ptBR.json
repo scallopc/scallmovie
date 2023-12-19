@@ -4,8 +4,6 @@
         "button": "Botão",
         "properties": "Propriedades",
         "documentation": "Documento",
-        "favorite": "favorito",
-        "event": "evento", 
-        "robot": "Robô"
+        "favorite": "favorito"
     }
 }
