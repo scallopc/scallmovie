@@ -5,6 +5,7 @@
         "properties": "Propriedades",
         "documentation": "Documento",
         "favorite": "favorito",
-        "event": "evento" 
+        "event": "evento", 
+        "robot": "Robô"
     }
 }

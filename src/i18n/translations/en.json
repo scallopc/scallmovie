@@ -5,6 +5,7 @@
         "properties": "Properties",
         "discovery": "Discovery",
         "favorite": "Favorite",
-        "event": "Event"    
+        "event": "Event",
+        "robot": "Robot"  
     }
 }
