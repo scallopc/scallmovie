@@ -7,7 +7,7 @@ export function Header() {
       <div>logo</div>
       <div>
         <i className="bi bi-moon-stars-fill" />
-        {/* <i className="bi bi-brightness-high-fill"></i> */}
+         <i className="bi bi-brightness-high-fill"></i>
       </div>
     </Container>
   );
