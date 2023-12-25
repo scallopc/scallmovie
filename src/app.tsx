@@ -30,7 +30,7 @@ export default function App() {
       <HashRouter>
         <GlobalStyles />
         <Header />
-        {/* <TestColors /> */}
+        <TestColors />
         <Routes />
       </HashRouter>
     </ThemeProvider>
